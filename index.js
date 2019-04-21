@@ -49,4 +49,4 @@ let arr = ['1.png', '2.png', 3];
 //log(Number.NEGATIVE_INFINITY);
 //log('\u03c0='+pi);
 let n = 128;
-log(n.toString(16));
+//log(n.toString(16));
