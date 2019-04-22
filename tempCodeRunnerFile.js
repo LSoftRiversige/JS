@@ -1,2 +1,1 @@
-let n = 128;
-log(n.toString(16));
+console.log("Ёжикswsws" > "яблоко"? 'Да' : 'Нет');
